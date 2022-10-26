@@ -1,0 +1,9 @@
+Metal Gear Rising Revengeance
+Objetivo: Matar todos os inimigos que vêm atrás de você
+Regras: jogador não pode encostar nos ataques dos NPCs e não pode falhar em QTE(eventos de curto tempo)
+Equilíbrio: existe, modo fácil é fácil e normal é normal.
+História: Protagonista luta pelos mais fracos.
+Adaptividade: modos de jogo fácil, médio, difícil e extreme.
+Feedback: game over e missão concluída
+Sorte X habilidade: não tem elemento de sorte, jogador desbloqueia inúmeros ataques com dinheiro. 
+PC e NPC: 3 PCs, inúmeros NPCS
